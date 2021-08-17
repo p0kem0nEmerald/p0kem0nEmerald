@@ -1,16 +1,12 @@
-### Hi there 👋
+### 🐲 エメラルドを風化させないChannel 🐉
 
-<!--
-**p0kem0nEmerald/p0kem0nEmerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://p0kem0nemerald.github.io/">
+  <div align="center"><img src="header.gif" width="80%"></div>
+</a>
+<a href="https://www.youtube.com/c/p0kem0nEmerald">
+  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCEWGH8tNvUPUX4M5BTGDSuw?style=social">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCEWGH8tNvUPUX4M5BTGDSuw?style=social">
+</a>
+<a href="https://twitter.com/p0kem0nEmerald">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/p0kem0nEmerald?style=social">
+</a>
