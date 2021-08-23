@@ -1,7 +1,7 @@
-## 🐲 エメラルドを風化させないChannel 🐉
+## 🐲 エメラルドを風化させない Channel 🐉
 
 <a href="https://p0kem0nemerald.github.io/">
-  <div align="center"><img src="header.gif" width="60%"></div>
+  <div align="center"><img alt="header" src="https://p0kem0nemerald.github.io/static/images/background/rayquaza.gif" width="60%"></div>
 </a>
 <a href="https://www.youtube.com/c/p0kem0nEmerald">
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCEWGH8tNvUPUX4M5BTGDSuw?style=social">
@@ -11,7 +11,7 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/p0kem0nEmerald?style=social">
 </a>
 
-### YouTube動画集
+### YouTube 動画集
 
 <table>
   <thead>
